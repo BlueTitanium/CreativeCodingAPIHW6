@@ -50,7 +50,7 @@ function preload(){
   //https://www.dafont.com/pokemon.font
   fontPoke = loadFont('Pokemon.ttf');
   fontPokeFilled = loadFont('PokemonInner.ttf');
-  fontPixel = loadFont('Pixel.ttf');
+  fontPixel = loadFont('pixel.ttf');
 }
 
   function setup() {
